@@ -1,7 +1,0 @@
-this is seprate file commit.txt
-this is another update in commit
-
-
-
-"now i want to save this content through stashing"
-hhhhhhhhhhhhhhhhhhhhhhhhhh
